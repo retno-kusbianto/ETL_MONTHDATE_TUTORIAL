@@ -1,4 +1,4 @@
-# ETL_MONTHDATE_TUTORIAL
+# ETL_MONTHDATE_TUTORIAL (001)
 Panduan lengkap untuk setup lingkungan Python dengan Anaconda &amp; UV. Anaconda menyediakan ratusan paket siap pakai untuk komputasi ilmiah &amp; analisis data, sementara UV adalah alat manajemen paket berbasis Rust yang cepat untuk lingkungan virtual &amp; instalasi dependensi. Cocok untuk pemula dalam proyek AI/ML. 🚀
 ![CONDAUV](https://github.com/arry-hutomo/ETL_MONTHDATE_TUTORIAL/blob/main/CONDA%20UV%20ENVIRONMENTs.png)
 
