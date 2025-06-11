@@ -27,5 +27,5 @@ Silakan ikuti panduan terperinci yang terdapat dalam file utama:
 Panduan Setup (Conda dan UV Virtual Environments).html 📑
 
 ### KLIK LINK DIBAWAH INI :
-[LINK](https://github.com/arry-hutomo/ETL_MONTHDATE_TUTORIAL/blob/main/Panduan%20Setup%20(Conda%20dan%20UV%20Virtual%20Environments).html)
+
 
