@@ -1,11 +1,6 @@
 
 # 📚 Panduan Lengkap Setup Anaconda & UV Environment untuk Data Science/AI
 
-**Nama** : Farhan Fadillah  
-**Batch** : 9  
-**No. Absen** : 9.008.DB2025
-
-**Halo Eco Techno Leaders! 👋** 
 
 Berikut adalah panduan lengkap untuk setup environment data science/AI menggunakan Anaconda dan UV Environment. Tutorial ini dibuat dengan penjelasan step-by-step yang mudah diikuti.
 
