@@ -24,8 +24,12 @@ Pengaturan ini memungkinkan pengembang fokus pada pengembangan model tanpa khawa
 🛠️ Cara Penggunaan
 
 Silakan ikuti panduan terperinci yang terdapat dalam file utama:
+
+
+---
+
+SEE ATTACHMENTS LINK di GRUP BELAJAR: 
 Panduan Setup (Conda dan UV Virtual Environments).html 📑
 
-### KLIK LINK DIBAWAH INI :
 
 
