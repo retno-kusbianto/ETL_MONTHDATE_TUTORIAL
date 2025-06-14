@@ -2,6 +2,10 @@
 # 📚 Panduan Lengkap Setup Anaconda & UV Environment untuk Data Science/AI
 
 
+Nama		: Retno Kusbianto
+Batch		: 09
+No. Absen	: 09.007.DB2025
+
 Berikut adalah panduan lengkap untuk setup environment data science/AI menggunakan Anaconda dan UV Environment. Tutorial ini dibuat dengan penjelasan step-by-step yang mudah diikuti.
 
 ---
@@ -52,7 +56,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     - Pilih versi sesuai OS Anda (Windows/macOS/Linux)
     - Klik tombol Download
 
-![image](https://github.com/user-attachments/assets/901655f0-1af9-4488-95aa-1ad47e7f3c1f)
+![image](https://github.com/retno-kusbianto/ETL_MONTHDATE_TUTORIAL/blob/Task_Retno_K/Anaconda.PNG)
    
    Do's:
 	- Download dari situs resmi Anaconda
@@ -72,7 +76,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
 	- Ikuti wizard instalasi
 	- Pilih opsi "Add Anaconda to PATH" (opsional)
 
-![image](https://github.com/user-attachments/assets/5f595980-7491-4c59-89c5-2f13c614ba8f)
+![image](https://github.com/retno-kusbianto/ETL_MONTHDATE_TUTORIAL/blob/Task_Retno_K/Capture2.PNG)
  
    Do's:
 	- Gunakan pengaturan default jika tidak yakin
@@ -93,7 +97,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
        conda --version
     3. Jika muncul versi conda, instalasi sudah sukses.
 
-![image](https://github.com/user-attachments/assets/e1a4a445-fc96-4e90-b66a-7975f39b1cdd)
+![image](https://github.com/retno-kusbianto/ETL_MONTHDATE_TUTORIAL/blob/Task_Retno_K/Capture5.PNG)
     
     Do's:
     - Gunakan terminal baru setelah instalasi untuk memastikan variabel PATH terbaru terbaca   - Pastikan perintah dijalankan tanpa error.
@@ -115,7 +119,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     6. Tambahkan (ganti NAMA_ANDA):
     7. Klik Ok
 
-![image](https://github.com/user-attachments/assets/f503738e-510e-419e-9a72-dce9d00fd668)
+![image](https://github.com/retno-kusbianto/ETL_MONTHDATE_TUTORIAL/blob/Task_Retno_K/Capture6.PNG)
 
     Do's:
     - Pastikan sudah menutup dan membuka terminal baru setelah konfigurasi.
@@ -135,7 +139,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     Langkah-langkah:
     - Jalankan perintah berikut di terminal: conda create -n nama_env python=3.9
  
-![image](https://github.com/user-attachments/assets/d70ace8b-3a0c-45b6-85a5-cf87a575e5da)
+![image](https://github.com/retno-kusbianto/ETL_MONTHDATE_TUTORIAL/blob/Task_Retno_K/Capture7.PNG)
 
     Do's:
     - Gunakan nama environment yang deskriptif dan mudah diingat.
@@ -163,7 +167,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     3.	Output seperti Successfully installed uv-0.7.12 menunjukkan keberhasilan.
     4.	Catatan tentang folder ghost_intellixuv: Folder ghost_intellixuv akan dibuat di langkah berikutnya  menggunakan uv init. Perintah ini otomatis membuat folder jika belum ada, karena UV dirancang untuk menginisialisasi direktori proyek baru secara langsung. Anda tidak perlu membuat folder ini secara manual sebelum menjalankan uv init. Untuk memverifikasi folder setelah inisialisasi, ketik dir di CMD untuk melihat daftar direktori.
 
-![image](https://github.com/user-attachments/assets/a5a483b1-87a4-4c7e-90ce-dcf3ee9943a7)
+![image](https://github.com/retno-kusbianto/ETL_MONTHDATE_TUTORIAL/blob/Task_Retno_K/Capture8.PNG)
 
     Do's:
     - Beri nama environment yang deskriptif
@@ -186,7 +190,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
                Cd ghost intellixuv
     3. Output menunjukkan proyek diinisialisasi di C:\Users\NAMA_ANDA\ghost_intellix\ghost_intellixuv.
 
-![image](https://github.com/user-attachments/assets/17276dad-204c-4b2c-a3ef-e68214691642)
+![image](https://github.com/retno-kusbianto/ETL_MONTHDATE_TUTORIAL/blob/Task_Retno_K/WhatsApp%20Image%202025-06-14%20at%2021.51.50.jpeg)
  
     Do's:
     - Gunakan struktur folder yang konsisten
@@ -211,7 +215,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     Langkah-langkah:
     1.	Ketik: uv add pandas
 
-![image](https://github.com/user-attachments/assets/61291641-7c48-4db3-b2b4-21958b056d76)
+![image](https://github.com/retno-kusbianto/ETL_MONTHDATE_TUTORIAL/blob/Task_Retno_K/WhatsApp%20Image%202025-06-14%20at%2022.18.07.jpeg)
 
     Do's:
     - Install hanya paket yang diperlukan
@@ -234,7 +238,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     1.	Ketik: .venv\Scripts\deactivate
     2.	Prompt kembali ke C:\Users\NAMA_ANDA\ghost_intellix\ghost_intellixuv>.
 
-![image](https://github.com/user-attachments/assets/6017c6a5-06bb-4376-8248-d46fae0aece4)
+![image](https://github.com/retno-kusbianto/ETL_MONTHDATE_TUTORIAL/blob/Task_Retno_K/WhatsApp%20Image%202025-06-14%20at%2022.20.04.jpeg)
 
     Do's:
     - Selalu deactivate ketika berpindah konteks.
@@ -255,7 +259,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     - Conda: manajemen environment dan paket secara umum, lintas proyek.
     - UV: environment/framework yang lebih spesifik untuk proyek tertentu, mungkin terkait AI.
 
-![image](https://github.com/user-attachments/assets/d4e68cf5-e066-44b5-bfb6-f070e9b755f1)
+![image](https://github.com/retno-kusbianto/ETL_MONTHDATE_TUTORIAL/blob/Task_Retno_K/WhatsApp%20Image%202025-06-14%20at%2023.28.54.jpeg)
 
     Do's:
     - Gunakan Conda untuk manajemen environment yang luas.
@@ -276,7 +280,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     - seaborn
     - tensorflow atau pytorch (sesuai kebutuhan)
 
-![image](https://github.com/user-attachments/assets/5020c54f-75e8-4036-b76f-d8882d712733)
+![image](https://github.com/retno-kusbianto/ETL_MONTHDATE_TUTORIAL/blob/Task_Retno_K/WhatsApp%20Image%202025-06-14%20at%2023.32.05.jpeg)
 
     Do's:
     - Instal paket sesuai kebutuhan proyek.
@@ -327,7 +331,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
 Perintah-perintah Penting
 Berikut beberapa perintah penting untuk mengelola environment:
 
-![image](https://github.com/user-attachments/assets/5eec8061-abef-4564-b5eb-31bb6c6bcad6)
+![image](https://github.com/retno-kusbianto/ETL_MONTHDATE_TUTORIAL/blob/Task_Retno_K/WhatsApp%20Image%202025-06-14%20at%2023.33.14.jpeg)
 
 ---
 
