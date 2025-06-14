@@ -3,9 +3,7 @@
 
 
 Nama		: Retno Kusbianto
-
 Batch		: 09
-
 No. Absen	: 09.007.DB2025
 
 Berikut adalah panduan lengkap untuk setup environment data science/AI menggunakan Anaconda dan UV Environment. Tutorial ini dibuat dengan penjelasan step-by-step yang mudah diikuti.
